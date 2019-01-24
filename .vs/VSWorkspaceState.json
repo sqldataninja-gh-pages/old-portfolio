@@ -1,8 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
+    "\\assets\\custom",
+    "\\assets\\custom\\2.2.0",
+    "\\assets\\custom\\2.2.0\\images",
     "\\documents"
   ],
-  "SelectedNode": "\\portfolio.html",
+  "SelectedNode": "\\assets\\custom\\2.2.0\\images\\myosin2.jpg",
   "PreviewInSolutionExplorer": false
 }
