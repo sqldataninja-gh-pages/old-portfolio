@@ -2,9 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\assets",
+    "\\assets\\custom",
     "\\assets\\custom\\2.2.0",
+    "\\assets\\custom\\2.2.0\\images",
     "\\documents"
   ],
-  "SelectedNode": "\\portfolio-werkout.html",
+  "SelectedNode": "\\portfolio-baseballpos.html",
   "PreviewInSolutionExplorer": false
 }

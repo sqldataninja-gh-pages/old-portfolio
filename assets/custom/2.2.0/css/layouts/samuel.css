@@ -1,10 +1,11 @@
 /* Main Photo */
 .photo-01 {
-  background: url("../../images/me.jpg");
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  min-height: 360px; }
+    background: url("../../images/Jmed1504.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+}
 
 /* Timeline */
 .timeline-samuel-01,
